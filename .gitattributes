@@ -1,3 +1,4 @@
 *.md filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 /docker_nginx filter=lfs diff=lfs merge=lfs -text
+*.img filter=lfs diff=lfs merge=lfs -text
